@@ -1,0 +1,99 @@
+1578561255829	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/43cj08gd5630x1qm9m4w70340000gp/T/rust_mozprofileSkxXVx"
+1578561256435	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1578561256553	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578561256553	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578561256553	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578561256553	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1578561258273	Marionette	INFO	Listening on port 60950
+1578561258303	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.sccourts.org/shared/scripts/ajax/jquery/jquery.min.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.sccourts.org/shared/scripts/bootstrap.min.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.sccourts.org/shared/scripts/ajax/jquery/urchin.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.sccourts.org/shared/scripts/ajax/jquery/jquery.min.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.sccourts.org/shared/scripts/bootstrap.min.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.sccourts.org/shared/scripts/ajax/jquery/urchin.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://publicindex.sccourts.org/lexington/publicindex/, line 7: TypeError: hc is null
+JavaScript error: https://www.sccourts.org/shared/scripts/ajax/jquery/jquery.min.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.sccourts.org/shared/scripts/bootstrap.min.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.sccourts.org/shared/scripts/ajax/jquery/urchin.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://publicindex.sccourts.org/fairfield/publicindex/, line 7: TypeError: fR is null
+JavaScript error: https://www.sccourts.org/shared/scripts/ajax/jquery/jquery.min.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.sccourts.org/shared/scripts/bootstrap.min.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.sccourts.org/shared/scripts/ajax/jquery/urchin.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.sccourts.org/shared/scripts/ajax/jquery/jquery.min.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.sccourts.org/shared/scripts/bootstrap.min.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.sccourts.org/shared/scripts/ajax/jquery/urchin.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://publicindex.sccourts.org/union/publicindex/, line 7: TypeError: fR is null
+JavaScript error: https://www.sccourts.org/shared/scripts/ajax/jquery/jquery.min.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.sccourts.org/shared/scripts/bootstrap.min.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.sccourts.org/shared/scripts/ajax/jquery/urchin.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.sccourts.org/shared/scripts/ajax/jquery/jquery.min.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.sccourts.org/shared/scripts/bootstrap.min.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.sccourts.org/shared/scripts/ajax/jquery/urchin.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://publicindex.sccourts.org/cherokee/publicindex/, line 7: TypeError: dG is null
+JavaScript error: https://www.sccourts.org/shared/scripts/ajax/jquery/jquery.min.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.sccourts.org/shared/scripts/bootstrap.min.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.sccourts.org/shared/scripts/ajax/jquery/urchin.js, line 3: SyntaxError: expected expression, got '<'
+1578561359688	Marionette	INFO	Stopped listening on port 60950
+1578561456608	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/43cj08gd5630x1qm9m4w70340000gp/T/rust_mozprofileNXu4eY"
+1578561457092	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1578561457206	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578561457206	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578561457206	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578561457207	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1578561458934	Marionette	INFO	Listening on port 62100
+1578561458952	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.sccourts.org/shared/scripts/ajax/jquery/jquery.min.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.sccourts.org/shared/scripts/bootstrap.min.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.sccourts.org/shared/scripts/ajax/jquery/urchin.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://publicindex.sccourts.org/lexington/publicindex/, line 7: TypeError: fR is null
+JavaScript error: https://www.sccourts.org/shared/scripts/ajax/jquery/jquery.min.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.sccourts.org/shared/scripts/bootstrap.min.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.sccourts.org/shared/scripts/ajax/jquery/urchin.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.sccourts.org/shared/scripts/ajax/jquery/jquery.min.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.sccourts.org/shared/scripts/bootstrap.min.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.sccourts.org/shared/scripts/ajax/jquery/urchin.js, line 3: SyntaxError: expected expression, got '<'
+1578561503030	Marionette	INFO	Stopped listening on port 62100
+1578561504135	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/43cj08gd5630x1qm9m4w70340000gp/T/rust_mozprofileiSABS0"
+1578561504594	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1578561504696	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578561504696	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578561504696	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578561504698	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1578561506406	Marionette	INFO	Listening on port 62482
+1578561506492	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.sccourts.org/shared/scripts/ajax/jquery/jquery.min.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.sccourts.org/shared/scripts/bootstrap.min.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.sccourts.org/shared/scripts/ajax/jquery/urchin.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://publicindex.sccourts.org/lexington/publicindex/, line 7: TypeError: dG is null
+JavaScript error: https://www.sccourts.org/shared/scripts/ajax/jquery/jquery.min.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.sccourts.org/shared/scripts/bootstrap.min.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.sccourts.org/shared/scripts/ajax/jquery/urchin.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://publicindex.sccourts.org/florence/publicindex/, line 7: TypeError: dC is null
+JavaScript error: https://www.sccourts.org/shared/scripts/ajax/jquery/jquery.min.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.sccourts.org/shared/scripts/bootstrap.min.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.sccourts.org/shared/scripts/ajax/jquery/urchin.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://publicindex.sccourts.org/pickens/publicindex/, line 7: TypeError: dC is null
+JavaScript error: https://www.sccourts.org/shared/scripts/ajax/jquery/jquery.min.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.sccourts.org/shared/scripts/bootstrap.min.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.sccourts.org/shared/scripts/ajax/jquery/urchin.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://www2.greenvillecounty.org/SCJD/PublicIndex/PISearch.aspx, line 97: ReferenceError: $ is not defined
+JavaScript error: https://www2.greenvillecounty.org/SCJD/PublicIndex/ScriptResource.axd?d=Oj0m9P9zS32Mu499kPbjVRK3MwU_Jcjan7bXGp9CvB9wXYycSun_fL4UPadQ_ClnaVLpq3wh2XluE_msjYTj-Xaa38vHLNurUe-wonS__33mZtXfYlCee6vqtdF9wsp40&t=27117261, line 2: TypeError: g is not a constructor
+JavaScript error: https://www2.greenvillecounty.org/SCJD/PublicIndex/PISearch.aspx, line 97: ReferenceError: $ is not defined
+JavaScript error: https://www2.greenvillecounty.org/SCJD/PublicIndex/ScriptResource.axd?d=Oj0m9P9zS32Mu499kPbjVRK3MwU_Jcjan7bXGp9CvB9wXYycSun_fL4UPadQ_ClnaVLpq3wh2XluE_msjYTj-Xaa38vHLNurUe-wonS__33mZtXfYlCee6vqtdF9wsp40&t=27117261, line 2: TypeError: g is not a constructor
+1578561664899	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/43cj08gd5630x1qm9m4w70340000gp/T/rust_mozprofileMOpVnm"
+1578561665343	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1578561665449	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578561665449	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578561665449	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578561665449	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1578561667280	Marionette	INFO	Listening on port 63106
+1578561667292	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.sccourts.org/shared/scripts/ajax/jquery/jquery.min.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.sccourts.org/shared/scripts/bootstrap.min.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.sccourts.org/shared/scripts/ajax/jquery/urchin.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.sccourts.org/shared/scripts/ajax/jquery/jquery.min.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.sccourts.org/shared/scripts/bootstrap.min.js, line 3: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.sccourts.org/shared/scripts/ajax/jquery/urchin.js, line 3: SyntaxError: expected expression, got '<'
+1578561676832	Marionette	INFO	Stopped listening on port 63106
+1578561677802	Marionette	INFO	Stopped listening on port 62482
