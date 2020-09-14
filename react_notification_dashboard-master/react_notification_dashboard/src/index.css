@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@font-face {
+  font-family: 'SlatePro-Bk';
+  src: local('SlatePro-Bk'), url(./assets/fonts/SlatePro-Bk.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'SlatePro-Bold';
+  src: local('SlatePro-Bold'), url(./assets/fonts/SlatePro-Bold.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'SlatePro-Light';
+  src: local('SlatePro-Light'), url(./assets/fonts/SlatePro-Light.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'SlatePro';
+  src: local('SlatePro'), url(./assets/fonts/SlatePro.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'SlatePro-Medium';
+  src: local('SlatePro-Medium'), url(./assets/fonts/SlatePro-Medium.ttf) format('truetype');
+}

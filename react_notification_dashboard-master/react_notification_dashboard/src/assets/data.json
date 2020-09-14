@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "category": "Water",
+    "logo": "./images/utility_status_water_warning.png",
+    "status": "USAGE SPIKE",
+    "detail": "Usage is more than 200%",
+    "address": "123 St",
+    "time": "12:34pm"
+  },
+  {
+    "id": 1,
+    "category": "Water",
+    "logo": "./images/utility_status_water_warning.png",
+    "status": "USAGE SPIKE",
+    "detail": "Usage is more than 200%",
+    "address": "123 St",
+    "time": "12:34pm"
+  },
+  {
+    "id": 1,
+    "category": "Water",
+    "logo": "./images/utility_status_water_warning.png",
+    "status": "USAGE SPIKE",
+    "detail": "Usage is more than 200%",
+    "address": "123 St",
+    "time": "12:34pm"
+  },
+  {
+    "id": 1,
+    "category": "Water",
+    "logo": "./images/utility_status_water_warning.png",
+    "status": "USAGE SPIKE",
+    "detail": "Usage is more than 200%",
+    "address": "123 St",
+    "time": "12:34pm"
+  },
+  {
+    "id": 1,
+    "category": "Water",
+    "logo": "./images/utility_status_water_warning.png",
+    "status": "USAGE SPIKE",
+    "detail": "Usage is more than 200%",
+    "address": "123 St",
+    "time": "12:34pm"
+  },
+  {
+    "id": 1,
+    "category": "Water",
+    "logo": "./images/utility_status_water_warning.png",
+    "status": "USAGE SPIKE",
+    "detail": "Usage is more than 200%",
+    "address": "123 St",
+    "time": "12:34pm"
+  },
+  {
+    "id": 1,
+    "category": "Water",
+    "logo": "./images/utility_status_water_warning.png",
+    "status": "USAGE SPIKE",
+    "detail": "Usage is more than 200%",
+    "address": "123 St",
+    "time": "12:34pm"
+  },
+  {
+    "id": 1,
+    "category": "Water",
+    "logo": "./images/utility_status_water_warning.png",
+    "status": "USAGE SPIKE",
+    "detail": "Usage is more than 200%",
+    "address": "123 St",
+    "time": "12:34pm"
+  },
+  {
+    "id": 1,
+    "category": "Water",
+    "logo": "./images/utility_status_water_warning.png",
+    "status": "USAGE SPIKE",
+    "detail": "Usage is more than 200%",
+    "address": "123 St",
+    "time": "12:34pm"
+  },
+  {
+    "id": 1,
+    "category": "Water",
+    "logo": "./images/utility_status_water_warning.png",
+    "status": "USAGE SPIKE",
+    "detail": "Usage is more than 200%",
+    "address": "123 St",
+    "time": "12:34pm"
+  }
+]
