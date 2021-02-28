@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2BFE43D1-4702-408C-A5D3-14234B18413A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3EB93B4D-4402-45DF-8AB9-52121633F76C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "hChen_357_Project02/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "138"
+            endingLineNumber = "138"
+            landmarkName = "Ask"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "3EB93B4D-4402-45DF-8AB9-52121633F76C - 77c2d0119b1fc256"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 2 of static hChen_357_Project02.Ask.AskQuestion(questionText: Swift.String, acceptableReplies: Swift.Array&lt;Swift.String&gt;, caseSensitive: Swift.Bool) -&gt; Swift.String"
+                  moduleName = "hChen_357_Project02"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/peter/Googledrive/Chapman/Course/2021_Spring/CPSC357/Assignment/Project2/hChen_357_Project02/hChen_357_Project02/hChen_357_Project02/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "6">
+               </Location>
+               <Location
+                  uuid = "3EB93B4D-4402-45DF-8AB9-52121633F76C - 1926591c48c453ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static hChen_357_Project02.Ask.AskQuestion(questionText: Swift.String, acceptableReplies: Swift.Array&lt;Swift.String&gt;, caseSensitive: Swift.Bool) -&gt; Swift.String"
+                  moduleName = "hChen_357_Project02"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/peter/Googledrive/Chapman/Course/2021_Spring/CPSC357/Assignment/Project2/hChen_357_Project02/hChen_357_Project02/hChen_357_Project02/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "276">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
